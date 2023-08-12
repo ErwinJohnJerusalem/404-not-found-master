@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://lighthearted-lebkuchen-9e3004.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/QUkk8rKT6AbCFpxDbVJE">
       Solution
     </a>
     <span> | </span>
@@ -26,7 +26,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -34,7 +34,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ErwinJohnJerusalem/404-not-found-master/blob/main/404%20not%20found%20preview.png)
 
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -55,7 +55,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
-- [Learning CSS ] (https://devchallenges.io/learn/category/responsive-website)
+- [Learning-CSS] (https://devchallenges.io/learn/category/responsive-website)
 
 
 
