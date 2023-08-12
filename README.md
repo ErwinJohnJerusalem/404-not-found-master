@@ -55,10 +55,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Acknowledgements
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
-- [Learning-CSS] (https://devchallenges.io/learn/category/responsive-website)
+- [Learning-CSS](https://devchallenges.io/learn/category/responsive-website)
 
 
 
 ## Contact
-- GitHub [@your-username](https://github.com/ErwinJohnJerusalem)
-- Twitter [@your-twitter](https://twitter.com/ErwinJerusalem)
+- GitHub [@ErwinJohnJerusalem](https://github.com/ErwinJohnJerusalem)
+- Twitter [@ErwinJerusalem](https://twitter.com/ErwinJerusalem)
